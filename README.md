@@ -19,5 +19,7 @@
 <br>
 🛠️ Cada linha de código aqui é um passo na jornada!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklin-lab-tech)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-lab-tech)](https://github.com/anuraghazra/github-readme-stats)
