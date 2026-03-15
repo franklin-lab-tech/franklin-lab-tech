@@ -7,6 +7,8 @@
 
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 🌱 Aprendendo os fundamentos da web para construir interfaces modernas
 <br>
 🚀 Em busca de evolução constante e novos desafios no desenvolvimento Front-End
